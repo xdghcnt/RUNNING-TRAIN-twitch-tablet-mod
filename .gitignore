@@ -1,0 +1,32 @@
+# Downloaded / generated dependencies -- fetched by scripts, never committed
+third_party/
+downloads/
+
+# Build output
+build/
+dist/
+Mods/*/dlls/
+
+# Local development install state
+backup/
+notes/dev-install-manifest.json
+
+# Editor / OS noise
+.vscode/
+__pycache__/
+Thumbs.db
+desktop.ini
+
+# Config backups written by calibration Save
+*.ini.bak
+*.ini.tmp
+
+# The player's own config (created by the mod on first start); the repo ships
+# TwitchTablet.default.ini only
+Mods/RunningTrainTwitchTablet/TwitchTablet.ini
+
+# Release inputs fetched by scripts\Get-UE4SS.ps1
+ue4ss-release/
+
+# Downloaded Twitch emote images (runtime cache)
+Mods/*/emotecache/

@@ -1,0 +1,39 @@
+================================================================================
+THREAD TITLE
+================================================================================
+
+[MOD] Twitch chat on a tablet in the cab
+
+
+================================================================================
+POST BODY  (paste as-is, Steam BBCode)
+================================================================================
+
+I made a mod that puts a tablet with your Twitch chat into the driver's cab of
+RUNNING TRAIN.
+
+It is an object in the cab, not an overlay: it rides with the train and sits
+where you put it, like a phone clipped to the desk, so you can glance at chat
+without leaving the cab view. Names come in their Twitch colours and emotes as
+pictures, your channel's own ones included. Chat is read anonymously - no
+login, no token, you only type your channel name into the config.
+
+Positions for hr1500, hr1100, kr5000 and DC8500 are included. In any other
+train the tablet appears right in front of you; move it into place with the
+numpad and save, once per train. Font size, screen brightness and all the
+keys can be changed, so it also works without a numpad.
+
+It works alongside my [url=https://steamcommunity.com/app/4630570/discussions/0/583931831085175535/]head tracking mod[/url] - install both in any order.
+
+[b]Download and full instructions:[/b] https://github.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod
+
+Install is a single drag-and-drop into the game folder. No installer, no extra
+runtime. Everything - setup, key bindings, config, troubleshooting - is in the
+readme at the link.
+
+The game is in Early Access, so a patch may eventually break this. It is free
+and open source (MIT), and feedback is very welcome, especially if you
+calibrate the tablet in a train I haven't - send me your numbers and I'll add
+them as a preset.
+
+[i]twitch, twitch chat, streaming, stream chat, tablet, overlay, OBS[/i]
