@@ -9,7 +9,10 @@ to the desk. Works well with head tracking.
 
 **[⬇ Download the latest release](https://github.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod/releases/latest)**
 
-![The tablet in the DC8500 cab, live chat with emotes](docs/screenshot-day.jpg)
+<p>
+  <img src="docs/screenshot-day.jpg" width="49%" alt="The tablet in the DC8500 cab, live chat with emotes">
+  <img src="docs/screenshot-night.jpg" width="49%" alt="Evening run, dimmed screen">
+</p>
 
 ---
 
@@ -22,8 +25,6 @@ to the desk. Works well with head tracking.
 - Ready-made tablet positions for **hr1500, hr1100, kr5000 and DC8500**. In any
   other train the tablet appears right in front of you, and you place it once.
 - Reconnects by itself after network drops.
-
-![Evening run in the hr1100 cab, dimmed screen](docs/screenshot-night.jpg)
 
 ---
 
