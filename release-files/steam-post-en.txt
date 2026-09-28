@@ -12,6 +12,8 @@ POST BODY  (paste as-is, Steam BBCode)
 I made a mod that puts a tablet with your Twitch chat into the driver's cab of
 RUNNING TRAIN.
 
+[img]https://raw.githubusercontent.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod/main/docs/screenshot-day.jpg[/img]
+
 It is an object in the cab, not an overlay: it rides with the train and sits
 where you put it, like a phone clipped to the desk, so you can glance at chat
 without leaving the cab view. Names come in their Twitch colours and emotes as
@@ -22,6 +24,8 @@ Positions for hr1500, hr1100, kr5000 and DC8500 are included. In any other
 train the tablet appears right in front of you; move it into place with the
 numpad and save, once per train. Font size, screen brightness and all the
 keys can be changed, so it also works without a numpad.
+
+[img]https://raw.githubusercontent.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod/main/docs/screenshot-night.jpg[/img]
 
 It works alongside my [url=https://steamcommunity.com/app/4630570/discussions/0/583931831085175535/]head tracking mod[/url] - install both in any order.
 

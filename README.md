@@ -7,6 +7,10 @@ The tablet is an object in the cab, not an overlay: it sits where you put it,
 rides with the train, and you glance at it the way you would at a phone clipped
 to the desk. Works well with head tracking.
 
+**[⬇ Download the latest release](https://github.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod/releases/latest)**
+
+![The tablet in the DC8500 cab, live chat with emotes](docs/screenshot-day.jpg)
+
 ---
 
 ## What it does
@@ -18,6 +22,8 @@ to the desk. Works well with head tracking.
 - Ready-made tablet positions for **hr1500, hr1100, kr5000 and DC8500**. In any
   other train the tablet appears right in front of you, and you place it once.
 - Reconnects by itself after network drops.
+
+![Evening run in the hr1100 cab, dimmed screen](docs/screenshot-night.jpg)
 
 ---
 
