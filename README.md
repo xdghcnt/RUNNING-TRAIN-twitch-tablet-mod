@@ -10,8 +10,8 @@ to the desk. Works well with head tracking.
 **[⬇ Download the latest release](https://github.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod/releases/latest)**
 
 <p>
-  <img src="docs/screenshot-day.jpg" width="49%" alt="The tablet in the DC8500 cab, live chat with emotes">
   <img src="docs/screenshot-night.jpg" width="49%" alt="Evening run, dimmed screen">
+  <img src="docs/screenshot-day.jpg" width="49%" alt="The tablet in the DC8500 cab, live chat with emotes">
 </p>
 
 ---
