@@ -12,8 +12,6 @@
 Сделал мод, который ставит в кабину машиниста RUNNING TRAIN планшет с вашим
 чатом Twitch.
 
-Скриншоты: [url=https://raw.githubusercontent.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod/main/docs/screenshot-day.jpg]днём[/url], [url=https://raw.githubusercontent.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod/main/docs/screenshot-night.jpg]вечером[/url]
-
 Это предмет в кабине, а не оверлей: он едет вместе с поездом и стоит там, куда
 вы его поставили, как телефон на держателе у пульта. Можно глянуть в чат, не
 отрываясь от вида из кабины. Ники в цветах Twitch, эмоуты картинками, включая
@@ -27,7 +25,7 @@
 
 Работает вместе с моим [url=https://steamcommunity.com/app/4630570/discussions/0/583931831085175535/]модом на трекинг головы[/url] - ставить можно в любом порядке.
 
-[b]Скачать и полная инструкция:[/b] https://github.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod
+[b]Скачать, скриншоты и полная инструкция:[/b] https://github.com/xdghcnt/RUNNING-TRAIN-twitch-tablet-mod
 
 Установка - просто распаковать архив в папку игры. Ни инсталляторов, ни
 дополнительных рантаймов. Всё остальное - настройка, клавиши, конфиг, решение
